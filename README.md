@@ -9,9 +9,9 @@
 - 📞 If you are solving an interesting problem, I'd love to collaborate
 - 📫 My LinedIn: https://www.linkedin.com/in/zhenhao-zhao-4037041ba/
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=radical)
+<img alt="Vincent's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&count_private=true&show_icons=true&theme=black&hide_border=true"/>
+<img alt="Vincent's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&layout=compact&theme=radical&hide_border=true&card_width=220"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
