@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Go, Java, C#, Unity and Blender
 - 📞 If you are solving an interesting problem, I'd love to collaborate
 - 📫 My LinedIn: https://www.linkedin.com/in/zhenhao-zhao-4037041ba/
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?Vincent-ZhenhaoZHAO=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent-ZhenhaoZHAO)](https://github.com/anuraghazra/github-readme-stats)
 
