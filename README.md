@@ -12,6 +12,5 @@
 
 <img alt="Vincent's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&count_private=true&show_icons=true&theme=black&hide_border=true"/>
 <img alt="Vincent's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell&langs_count=6&layout=compact"/>
-
-
+<img alt="Vincent's wakatime stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell&langs_count=6&layout=compact"/>
 
