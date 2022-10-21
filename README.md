@@ -11,6 +11,6 @@
 - 📫 My LinedIn: https://www.linkedin.com/in/zhenhao-zhao-4037041ba/
 
 <img alt="Vincent's Github Stats" align="centre" src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&count_private=true&show_icons=true&theme=black&hide_border=true"/>
-<img alt="Vincent's Github Stats" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile&langs_count=6&layout=compact"/>
+<img alt="Vincent's Github Stats" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile&langs_count=6&layout=compact"/>
 
 
