@@ -11,9 +11,7 @@
 - 📫 My LinedIn: https://www.linkedin.com/in/zhenhao-zhao-4037041ba/
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=Gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile&langs_count=6&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
 
