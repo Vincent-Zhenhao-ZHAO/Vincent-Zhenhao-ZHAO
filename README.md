@@ -12,6 +12,9 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=Gradient" />
+ <img class="img" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO" />
+ 
+
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile&langs_count=6&layout=compact" />
 </div>
 
