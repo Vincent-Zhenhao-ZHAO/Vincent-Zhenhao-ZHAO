@@ -15,8 +15,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile" />
 </div>
 
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,jupyter%20notebook,html,css,makefile&langs_count=6&layout=compact" />
-
 
 
 
