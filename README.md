@@ -2,11 +2,13 @@
 
 - 👋 Hi, I’m Vincent
 - 🔭 I have finished a VR project with IBM, and 3-months internship with Allianz Technology
-- 📖 I'm currently studying Computer Science in third year at Durham University
-- 👀 What excites me most is Data Science and Data Analysis, Software Engineering, Web development, Game Engineering and solving code challenges
-- 🖥 I have experience in Python, C#, Unity and Blender, MySQL, Panda, Node.js, Express and JavaScript
+- 🔭 I am currently publishing a Deep learning and Recommender System paper
+- 📖 I have finished Computer Science undergraduate in Durham University with first degree
+- 📖 I'm currently studying MSc Financial Technology with UCL
+- 👀 What excites me most is Data Science and Data Engineering, Software Engineering and Game Engineering
+- 🖥 I have more than 5 years experience in Python, familiar with popular library such as Pandas, Numpy, scik-learn, 2 years experience in C#,  MySQL, Node.js, Express and JavaScript; also one year experience in Pytorch
 - 🖥 I also have good experience about Agile Methodology, being Scrum Master for 2 months
-- 🌱 I’m currently learning Go, Java, Scala
+- 🌱 I’m currently learning more about DL, Financial Engineering and Digital Finance
 - 📞 If you are solving an interesting problem, I'd love to collaborate
 - 📫 My LinedIn: https://www.linkedin.com/in/zhenhao-zhao-4037041ba/
 
