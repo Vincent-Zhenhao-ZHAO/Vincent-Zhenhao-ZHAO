@@ -43,6 +43,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=radical" width="100%" max-width="600px" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,shaderlab,hlsl,shell,html,css,makefile&theme=radical&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=C%23,jupyter%20notebook,shaderlab,hlsl,shell,html,css,makefile&theme=radical&layout=compact" width="48%" />
   
 </p>
