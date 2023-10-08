@@ -19,7 +19,7 @@
 
 - **Languages**: Python (5+ years), C# (2 years), JavaScript, MySQL, Node.js, Express.
 - **Libraries**: Pandas, Numpy, Scikit-learn, PyTorch.
-- **Methodologies**: Agile, with 2 months experience as a Scrum Master.
+- **Methodologies**: Agile, Project management, with 1 year experience as a project manager in Durham University.
   
 ### 🕹 Areas of Interest
 
