@@ -40,7 +40,6 @@ Mario enrols at Durham University to study computer science. He needs to get cre
 Reinforcement Learning on Bipedal-Walking-v3 by using modified version of SAC. We have achieved 300 score at episode 117, shows convergence in normal versionat the beginning of the 200 episodes. In hardcore we have achieved 300 rewards at episode 1296.
 
 ![Standard Environment Bipedal Walker](https://github.com/Vincent-Zhenhao-ZHAO/SAC-with-Auto-tuned-Temperature-for-Bipedal-Walking-v3/blob/main/cvhm34-agent-video%2Cepisode%3D1100%2Cscore%3D324.gif)
-
 ![Hardcore Environment Bipedal Walker](https://github.com/Vincent-Zhenhao-ZHAO/SAC-with-Auto-tuned-Temperature-for-Bipedal-Walking-v3/blob/main/cvhm34-agent-hardcore-video%2Cepisode%3D2160%2Cscore%3D304.gif)
 
 ### 🚀 Reinforcement Learning on Bipedal-Walking-v3
