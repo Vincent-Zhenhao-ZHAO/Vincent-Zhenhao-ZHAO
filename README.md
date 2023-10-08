@@ -42,6 +42,11 @@ Reinforcement Learning on Bipedal-Walking-v3 by using modified version of SAC. W
 ![Standard Environment Bipedal Walker](https://github.com/Vincent-Zhenhao-ZHAO/SAC-with-Auto-tuned-Temperature-for-Bipedal-Walking-v3/blob/main/cvhm34-agent-video%2Cepisode%3D1100%2Cscore%3D324.gif)
 ![Hardcore Environment Bipedal Walker](https://github.com/Vincent-Zhenhao-ZHAO/SAC-with-Auto-tuned-Temperature-for-Bipedal-Walking-v3/blob/main/cvhm34-agent-hardcore-video%2Cepisode%3D2160%2Cscore%3D304.gif)
 
+### 🚀 HotelBooking Website
+Hotel Booking Website enables user to register a new account, login the account, view and book hotel room. 
+
+![HotelBooking Website](https://github.com/Vincent-Zhenhao-ZHAO/HotelBooking-Website/blob/main/demonstration%20video.gif)
+
 ### 📞 Let's Collaborate!
 
 - If you are tackling an intriguing problem, I'm eager to collaborate and contribute.
