@@ -29,6 +29,12 @@
 
 - Currently expanding my knowledge in **Deep Learning**, **Financial Engineering**, and **Digital Finance**.
 
+## 🎉 Featured Projects
+
+### 🚀 2D platform game under Unity Engine
+Mario enrols at Durham University to study computer science. He needs to get credits, finish coursework, and find MCS building in a limited time while facing challenges from Bowser's “Lazy factors”. With help from Frederick Li, he strives to earn his degree. Will he succeed? Time will tell.
+![Game Preview]([GameVideo.gif](https://github.com/Vincent-Zhenhao-ZHAO/Mario-s-Study-Adventure-A-journey-through-Durham-University-MCS/blob/main/GameVideo.gif))
+
 ### 📞 Let's Collaborate!
 
 - If you are tackling an intriguing problem, I'm eager to collaborate and contribute.
