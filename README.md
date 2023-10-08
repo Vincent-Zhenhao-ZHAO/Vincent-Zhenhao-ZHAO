@@ -2,8 +2,10 @@
 
 ### 🚀 Professional Experience
 
-- Worked on a VR project with **IBM**.
-- Completed a 3-month internship with **Allianz Technology**.
+- Worked on a VR project with **IBM** as part of second year.
+- 3-month internship with **Allianz Technology**.
+- One year as a project manager at Durham university. These teams were making project for **IBM**.
+- One year part time as a Science Faculty Intern at Durham university, organising Conference and managing a team size around 20.
   
 ### 📘 Educational Background
 
@@ -19,7 +21,7 @@
 
 - **Languages**: Python (5+ years), C# (2 years), JavaScript, MySQL, Node.js, Express.
 - **Libraries**: Pandas, Numpy, Scikit-learn, PyTorch.
-- **Methodologies**: Agile, Project management, with 1 year experience as a project manager in Durham University.
+- **Methodologies**: Agile, Project management, with 1 year experience as a project manager at Durham University.
   
 ### 🕹 Areas of Interest
 
