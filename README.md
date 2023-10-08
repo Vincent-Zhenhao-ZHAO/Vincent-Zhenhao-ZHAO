@@ -61,8 +61,7 @@ Hotel Booking Website enables user to register a new account, login the account,
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=radical" width="100%" max-width="600px" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Vincent-Zhenhao-ZHAO&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Zhenhao-ZHAO&hide=jupyter%20notebook,shaderlab,hlsl,shell,html,css,makefile&theme=radical&layout=compact&exclude_repo=COMP2281_VR-AI-Design-Thinking" width="48%" />
   
 </p>
