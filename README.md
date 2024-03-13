@@ -58,12 +58,17 @@ Hotel Booking Website enables user to register a new account, login the account,
 - [LinkedIn](https://www.linkedin.com/in/zhenhao-zhao-4037041ba/)
 
 ---
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zhenhao Zhao's Resume</title>
 </head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/Vincent-Zhenhao-ZHAO/resume/blob/main/Zhenhao's%20Resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
+<body>
+  <iframe src="https://github.com/Vincent-Zhenhao-ZHAO/resume/blob/main/Zhenhaos_Resume.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+</body>
+</html>
 
 <p align="center">
   
