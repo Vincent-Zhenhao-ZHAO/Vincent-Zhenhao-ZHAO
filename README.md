@@ -59,15 +59,15 @@ Hotel Booking Website enables user to register a new account, login the account,
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
 <head>
-  <meta charset="UTF-8">
-  <title>Zhenhao Zhao's Resume</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
 </head>
-<body>
-  <iframe src="https://github.com/Vincent-Zhenhao-ZHAO/resume/blob/main/Zhenhaos_Resume.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
-</body>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=https://github.com/Vincent-Zhenhao-ZHAO/resume/blob/main/Zhenhao's%20Resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
 </html>
 
 <p align="center">
